@@ -1,0 +1,23 @@
+{
+  "name": "trybe-exercises",
+  "version": "1.0.0",
+  "description": "Exercícios resolvidos ao longo da minha formação como Desenvolvedor Web na Trybe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cls && jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CKafer/trybe-exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CKafer/trybe-exercises/issues"
+  },
+  "homepage": "https://github.com/CKafer/trybe-exercises#readme",
+  "devDependencies": {
+    "jest": "^29.2.1"
+  }
+}
